@@ -5,3 +5,26 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+## Installation Nest JS CLI
+
+```
+$ npm i -g @nestjs/cli
+```
+
+## Installation
+
+```
+# Using npm
+$ npm i
+
+# Using pnpm
+$ pnpm i
+
+# Using yarn
+$ yarn install
+```
+
+## Enviroment config
+
+> Clone `.env.template` file and rename copy to `.env`; and fill in the variables.
