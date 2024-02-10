@@ -28,3 +28,19 @@ $ yarn install
 ## Enviroment config
 
 > Clone `.env.template` file and rename copy to `.env`; and fill in the variables.
+
+## Up database
+
+```
+$ docker-compose up -d
+```
+
+## Authors ✒️
+
+_Project from its beginnings, carried out by:_
+
+- **Francisco Palacios** - _Full Stack Developer_ - [Edgard007](https://github.com/Edgard007)
+
+## License
+
+Nest is [MIT licensed](LICENSE).
